@@ -141,9 +141,6 @@ This paragraph wandered it a little, so to make it more coherent I thought I wou
 The project integrates the provided logging middleware which is used for backend logging.
 
 ---
-Author. 
+## Author. 
 
 Roll Number: 22MIS0350
-This could be summarized as shown in the following table6.
-
-The Data: The diagram shows the data that is used in each of the experiments, along with the sources used and the frequency of the readings.]
